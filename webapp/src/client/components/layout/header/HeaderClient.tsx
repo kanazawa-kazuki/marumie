@@ -92,7 +92,7 @@ export default function HeaderClient({ organizations }: HeaderClientProps) {
               {/* PC用ロゴ (xl以上で表示) */}
               <div className="hidden xl:block h-7 relative w-[300px]">
                 <Image
-                  src="/logos/service-logo-pc.svg"
+                  src="/logos/service-logo-pc.jpg"
                   alt="みらいまる見え政治資金"
                   fill
                   className="object-contain object-left"
