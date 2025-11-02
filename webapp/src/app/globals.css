@@ -25,8 +25,8 @@
 :root {
   --background: linear-gradient(
     135deg,
-    rgba(226, 246, 243, 1) 0%,
-    rgba(238, 246, 226, 1) 100%
+    rgb(216, 225, 242) 0%,
+    rgb(106, 125, 228) 100%
   );
   --foreground: #171717;
 
@@ -39,9 +39,9 @@
   --color-black-900: #000000;
 
   /* Green系 (Primary) */
-  --color-primary-400: #30bca7;
-  --color-primary-500: #2aa693;
-  --color-primary-600: #238778;
+  --color-primary-400: #4132e1;
+  --color-primary-500: #362aa6;
+  --color-primary-600: #5851d7;
 
   /* Red系 (Danger) */
   --color-danger-500: #ef4444;
