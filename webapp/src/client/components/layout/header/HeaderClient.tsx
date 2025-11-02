@@ -69,7 +69,7 @@ export default function HeaderClient({ organizations }: HeaderClientProps) {
               <div className="w-14 h-12 xl:w-12 xl:h-11 relative">
                 {/* Team Mirai Logo */}
                 <Image
-                  src="/logos/team-mirai-logo.svg"
+                  src="/logos/team-mirai-logo.jpg"
                   alt="Team Mirai Logo"
                   fill
                   className="object-contain"

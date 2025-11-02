@@ -132,7 +132,7 @@ export default function Footer() {
         {/* Logo - PC版のみ表示 */}
         <div className="hidden lg:block w-[150px] h-[127px] relative">
           <Image
-            src="/logos/team-mirai-logo.svg"
+            src="/logos/team-mirai-logo.jpg"
             alt="Team Mirai Logo"
             fill
             className="object-contain"
@@ -196,7 +196,7 @@ export default function Footer() {
         {/* Logo - SP版のみ表示 */}
         <div className="block lg:hidden w-[150px] h-[127px] relative">
           <Image
-            src="/logos/team-mirai-logo.svg"
+            src="/logos/team-mirai-logo.jpg"
             alt="Team Mirai Logo"
             fill
             className="object-contain"
